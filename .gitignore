@@ -7,3 +7,5 @@ Lab2/messages.db-journal
 Lab2/messages.db-wal
 Lab2/messages.db-shm
 Lab4/received.txt
+*.db
+__pycache__/
