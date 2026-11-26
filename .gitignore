@@ -9,3 +9,6 @@ Lab2/messages.db-shm
 Lab4/received.txt
 *.db
 __pycache__/
+.coverage
+.pytest_cache/
+UnitTesting/received.txt
